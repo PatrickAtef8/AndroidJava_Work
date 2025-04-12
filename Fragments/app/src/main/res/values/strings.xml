@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="static_fragment">Hello static fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dynamic_fragment">Dynamic fragment</string>
+    <string name="showFragment">Show Fragment</string>
+    <string name="removeFragment">Remove Fragment</string>
+</resources>

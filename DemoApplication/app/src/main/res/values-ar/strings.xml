@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">مرحبا</string>
+    <string name="mobile_number">الهاتف</string>
+    <string name="message">رسالة</string>
+    <string name="next">التالي</string>
+    <string name="exit">خروج</string>
+    <string name="numbers">01201211455</string>
+    <string name="back">رجوع</string>
+    <string name="wsh">W-Sh</string>
+    <string name="n_a">N/A</string>
+    <string name="ris">R-Is</string>
+</resources>
+
+

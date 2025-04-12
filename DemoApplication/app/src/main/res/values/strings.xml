@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="message">Message</string>
+    <string name="next">Next</string>
+    <string name="exit">Exit</string>
+    <string name="numbers">01201211455</string>
+    <string name="back">Back</string>
+    <string name="counter">Counter</string>
+    <string name="wsh">W-Sh</string>
+    <string name="rsh">R-Sh</string>
+    <string name="n_a">N/A</string>
+    <string name="ris">R-Is</string>
+    <string name="wis">W-Is</string>
+    <string name="rdb">R-DB</string>
+    <string name="wdb">W-DB</string>
+</resources>

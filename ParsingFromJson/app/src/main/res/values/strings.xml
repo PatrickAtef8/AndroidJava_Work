@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParsingFromJson</string>
+    <string name="titletxt">Title</string>
+    <string name="pricetxt">Price</string>
+    <string name="descriptiontxt">Description</string>
+    <string name="image_desc">img</string>
+</resources>
