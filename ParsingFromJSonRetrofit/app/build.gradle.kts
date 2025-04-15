@@ -37,11 +37,16 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
 
-    // ✅ Retrofit Dependencies
+    // ✅ Retrofit
     implementation(libs.retrofit)
     implementation(libs.retrofit.gson)
     implementation(libs.okhttp.logging)
 
+    // ✅ Glide
+    implementation(libs.glide)
+    annotationProcessor(libs.compiler)
+
+    // Tests
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
